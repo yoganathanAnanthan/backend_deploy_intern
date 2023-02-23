@@ -1,0 +1,14 @@
+20230223	17:07:42	55053f2a-527e-4e59-b15f-963bbcc4bb97	TypeError: Cannot read properties of null (reading 'password')	POST	/auth	undefined
+20230223	17:08:03	d582d725-9750-4787-8b16-31d1daf685af	TypeError: Cannot read properties of null (reading 'password')	POST	/auth	undefined
+20230223	17:08:17	6281bad9-303f-4f2b-b9fc-f91083547da9	TypeError: Cannot read properties of null (reading 'password')	POST	/auth/	undefined
+20230223	17:09:06	e61d3f78-ff15-40df-a369-417941f66440	TypeError: Cannot read properties of null (reading 'password')	POST	/auth/	undefined
+20230223	17:09:25	f20fa2ab-0a4c-408d-bd7c-52914149cdb5	TypeError: Cannot read properties of null (reading 'password')	POST	/auth	undefined
+20230223	17:11:23	aff31858-648f-44cd-a5e0-bb1512cf0ed1	TypeError: Cannot read properties of null (reading 'password')	POST	/auth	undefined
+20230223	17:14:37	948779e4-c4e1-4fe0-a176-70aa0cb92b5f	TypeError: Cannot read properties of null (reading 'password')	POST	/auth	undefined
+20230223	17:14:38	44caa4a6-1cae-4acd-a4a0-4636efc709eb	TypeError: Cannot read properties of null (reading 'password')	POST	/auth	undefined
+20230223	17:14:39	f5174810-4e0e-4855-b763-08b61d8afc0b	TypeError: Cannot read properties of null (reading 'password')	POST	/auth	undefined
+20230223	17:20:10	1e4c3104-d6fe-47a1-9524-7a7ab02f8974	Error: Cannot set headers after they are sent to the client	POST	/auth	undefined
+20230223	17:21:08	c714b531-980e-434b-956f-faf9331bffcf	Error: Cannot set headers after they are sent to the client	POST	/auth	undefined
+20230223	17:21:54	2e6b55ac-7c12-42d8-96d1-ad05c7f46d0c	RangeError: Invalid status code: {
+  accessToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc2VySW5mbyI6eyJ1c2VybmFtZSI6ImRkZEBnbWFpbC5jb20iLCJmaXJzdE5hbWUiOiJ0aGFudSIsImxhc3ROYW1lIjoieW9nYW5hdGhhbiIsIm1vYmlsZU51bWJlciI6IjA3NzEyMjMyMjIzIiwiaW1hZ2UiOiJzZHNkZGRzZGRkc2RzZGRzZHNkc2RzZHNkc2R3ZmVmcmVncmVndHJ0eXR1cnlyZXR3ZXJldHJodHltaG52Y2ZiZnZiYyJ9LCJpYXQiOjE2NzcxNTMxMTQsImV4cCI6MTY3NzE1NDAxNH0.YvTZWoC5H2ToWgXcfQTZMneLfjdtQLO-_0QuAC22F-w'
+}	POST	/auth	undefined
